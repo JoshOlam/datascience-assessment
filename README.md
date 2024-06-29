@@ -1,0 +1,1 @@
+# skaletek-datascience-assessment
