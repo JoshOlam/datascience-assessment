@@ -1,0 +1,10 @@
+version: '3.8'
+
+services:
+  titanic-app:
+    build: .
+    image: titanic-app:latest
+    ports:
+      - "8501:8501"
+    volumes:
+      - .:/usr/src/app
