@@ -68,14 +68,20 @@ To deploy using Docker, ensure Docker and Docker Compose are installed and use t
 ### Build and Run Container
 
 ```bash
-docker-compose up build
+docker-compose build
+
+docker-compose up
 ```
 
 Or
 
 ```bash
-docker compose up build
+docker compose build
+
+docker compose up
 ```
+
+The webUI would be exposed to port `8501` on the localhost. It can be accessed here: [localhost:8501](http://localhost:8501/)
 
 ## Deployment
 
