@@ -31,7 +31,7 @@ Before setting up the project, ensure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/JoshOlam/datascience-assessment.git
+git clone https://github.com/josholam/datascience-assessment.git
 cd datascience-assessment
 ```
 
